@@ -1,0 +1,32 @@
+27-11-2019 23:08:33.855 [1] INFO Program - Windows Service Started
+27-11-2019 23:08:33.861 [1] INFO Program - Windows Service Started
+27-11-2019 23:09:02.409 [1] INFO Program - Windows Service Started
+28-11-2019 20:01:06.158 [1] INFO TestConsole.PipelineManager - Pipeline Lock Name:Tst1_FOC_Cloud
+28-11-2019 20:01:06.172 [1] INFO TestConsole.PipelineManager - Initializing ExecutionManager for Pipeline Tst1_FOC_Cloud
+28-11-2019 20:01:06.182 [1] INFO TestConsole.PipelineManager - Execution Manager started for lockName:Tst1_FOC_Cloud
+28-11-2019 20:01:06.190 [1] INFO TestConsole.PipelineManager - Fetching ExecutionManager for Pipeline Tst1_FOC_Cloud
+28-11-2019 20:01:06.199 [1] INFO TestConsole.ExecutionManager - Adding Pipeline Instance FOC_FOCRegression_28Nov2019_1 into QueueList for lock name Tst1_FOC_Cloud
+28-11-2019 20:01:06.207 [1] INFO TestConsole.ExecutionManager - Added Pipeline Instance FOC_FOCRegression_28Nov2019_1 into QueueList for lock name Tst1_FOC_Cloud
+28-11-2019 20:01:06.214 [1] INFO TestConsole.ExecutionManager - Triggering Pipeline Instance FOC_FOCRegression_28Nov2019_1
+28-11-2019 20:01:06.220 [1] INFO TestConsole.ExecutionManager - Setting Pipeline FOC_FOCRegression_28Nov2019_1 status to Running for lock Tst1_FOC_Cloud
+28-11-2019 20:01:06.226 [1] INFO TestConsole.ExecutionManager - Trigger Thread Id: 6 initiated pipeline FOC_FOCRegression_28Nov2019_1
+28-11-2019 20:01:06.237 [1] INFO TestConsole.PipelineManager - Pipeline Lock Name:Tst1_FOC_Cloud
+28-11-2019 20:01:06.244 [1] INFO TestConsole.PipelineManager - Fetching ExecutionManager for Pipeline Tst1_FOC_Cloud
+28-11-2019 20:01:06.251 [1] INFO TestConsole.ExecutionManager - Adding Pipeline Instance FOC_FOCMisc_28Nov2019_1 into QueueList for lock name Tst1_FOC_Cloud
+28-11-2019 20:01:06.261 [1] INFO TestConsole.ExecutionManager - Added Pipeline Instance FOC_FOCMisc_28Nov2019_1 into QueueList for lock name Tst1_FOC_Cloud
+28-11-2019 20:01:06.283 [1] INFO TestConsole.ExecutionManager - Triggering Pipeline Instance FOC_FOCRegression_28Nov2019_1
+28-11-2019 20:01:06.291 [1] INFO TestConsole.ExecutionManager - Setting Pipeline FOC_FOCMisc_28Nov2019_1 status to Running for lock Tst1_FOC_Cloud
+28-11-2019 20:01:06.302 [1] INFO TestConsole.ExecutionManager - Trigger Thread Id: 7 initiated pipeline FOC_FOCRegression_28Nov2019_1
+28-11-2019 20:01:06.314 [1] INFO TestConsole.PipelineManager - Pipeline Lock Name:Tst90_FOC_Cloud
+28-11-2019 20:01:06.322 [1] INFO TestConsole.PipelineManager - Initializing ExecutionManager for Pipeline Tst90_FOC_Cloud
+28-11-2019 20:01:06.329 [1] INFO TestConsole.PipelineManager - Execution Manager started for lockName:Tst90_FOC_Cloud
+28-11-2019 20:01:06.338 [1] INFO TestConsole.PipelineManager - Fetching ExecutionManager for Pipeline Tst90_FOC_Cloud
+28-11-2019 20:01:06.352 [1] INFO TestConsole.ExecutionManager - Adding Pipeline Instance FOC_FOCExtra_28Nov2019_1 into QueueList for lock name Tst90_FOC_Cloud
+28-11-2019 20:01:06.364 [1] INFO TestConsole.ExecutionManager - Added Pipeline Instance FOC_FOCExtra_28Nov2019_1 into QueueList for lock name Tst90_FOC_Cloud
+28-11-2019 20:01:06.373 [1] INFO TestConsole.ExecutionManager - Triggering Pipeline Instance FOC_FOCExtra_28Nov2019_1
+28-11-2019 20:01:06.400 [1] INFO TestConsole.ExecutionManager - Setting Pipeline FOC_FOCExtra_28Nov2019_1 status to Running for lock Tst90_FOC_Cloud
+28-11-2019 20:01:06.413 [1] INFO TestConsole.ExecutionManager - Trigger Thread Id: 11 initiated pipeline FOC_FOCExtra_28Nov2019_1
+28-11-2019 20:01:06.427 [1] INFO TestConsole.PipelineManager - Pipeline Lock Name:Tst90_FOC_Cloud
+28-11-2019 20:01:06.437 [1] INFO TestConsole.PipelineManager - Fetching ExecutionManager for Pipeline Tst90_FOC_Cloud
+28-11-2019 20:01:06.446 [1] INFO TestConsole.ExecutionManager - Adding Pipeline Instance FOC_FOCExtra123_28Nov2019_1 into QueueList for lock name Tst90_FOC_Cloud
+28-11-2019 20:01:06.454 [1] INFO TestConsole.ExecutionManager - Added Pipeline Instance FOC_FOCExtra123_28Nov2019_1 into QueueList for lock name Tst90_FOC_Cloud

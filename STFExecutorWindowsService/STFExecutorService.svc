@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="STFExecutorWindowsService.Service1" CodeBehind="STFExecutorService.svc.cs" %>

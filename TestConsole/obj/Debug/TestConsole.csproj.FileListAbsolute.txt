@@ -1,0 +1,12 @@
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\bin\Debug\log4net.dll
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\bin\Debug\log4net.xml
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\bin\Debug\LoggerService.dll
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\TestConsole\bin\Debug\LoggerService.pdb

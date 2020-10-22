@@ -1,0 +1,9 @@
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\bin\Debug\LoggerService.dll
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\bin\Debug\LoggerService.pdb
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\bin\Debug\log4net.dll
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\bin\Debug\log4net.xml
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\obj\Debug\LoggerService.csprojAssemblyReference.cache
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\obj\Debug\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\obj\Debug\LoggerService.csproj.CopyComplete
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\obj\Debug\LoggerService.dll
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\LoggerService\obj\Debug\LoggerService.pdb

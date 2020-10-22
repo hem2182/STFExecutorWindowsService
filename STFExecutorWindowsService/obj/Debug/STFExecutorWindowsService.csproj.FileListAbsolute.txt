@@ -1,0 +1,7 @@
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\STFExecutorWindowsService\bin\STFExecutorWindowsService.dll.config
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\STFExecutorWindowsService\bin\STFExecutorWindowsService.dll
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\STFExecutorWindowsService\bin\STFExecutorWindowsService.pdb
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\STFExecutorWindowsService\obj\Debug\STFExecutorWindowsService.csprojAssemblyReference.cache
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\STFExecutorWindowsService\obj\Debug\STFExecutorWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\STFExecutorWindowsService\obj\Debug\STFExecutorWindowsService.dll
+C:\Users\Hemant Sharma\source\repos\STFExecutorWindowsService\STFExecutorWindowsService\obj\Debug\STFExecutorWindowsService.pdb

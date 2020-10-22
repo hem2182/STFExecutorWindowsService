@@ -1,0 +1,16 @@
+22:34:49,900|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:34:50,012|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:41:20,278|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:41:20,308|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:43:45,860|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:43:45,904|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:44:37,956|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:44:38,050|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:46:17,275|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:46:17,309|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:47:18,025|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:47:18,107|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:51:05,440|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+22:51:05,483|T 1|                MyLogger1| INFO| this is my logger instance 1 for 
+27-11-2019 22:57:07.450 [1] INFO MyLogger1 - this is my logger instance 1 for 
+27-11-2019 22:57:07.527 [1] INFO MyLogger1 - this is my logger instance 1 for 
